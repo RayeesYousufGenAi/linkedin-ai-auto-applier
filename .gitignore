@@ -1,0 +1,44 @@
+# Personal config (contains credentials)
+config/secrets.py
+
+# Chrome profile data
+chrome_profile/
+
+# Logs
+logs/
+*.log
+
+# Applied jobs history
+applied_jobs_*.txt
+applied_jobs_*.json
+
+# Generated resumes
+generated_resumes/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
