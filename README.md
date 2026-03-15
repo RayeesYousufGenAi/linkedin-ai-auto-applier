@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-Dashboard-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+  <a href="https://github.com/sponsors/RayeesYousufGenAi"><img src="https://img.shields.io/badge/Sponsor-💖-ff69b4?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
@@ -33,6 +34,7 @@
   <a href="#%EF%B8%8F-how-to-install">⚙️ Install</a> •
   <a href="#-how-to-configure">🔧 Configure</a> •
   <a href="#-contributor-guidelines">🤝 Contribute</a> •
+  <a href="#-sponsors--support">💖 Sponsor</a> •
   <a href="#-community-support-and-discussions">💬 Community</a>
 </p>
 
@@ -699,6 +701,21 @@ This means you can:
 - ✅ Sublicense
 
 [back to top](#-content)
+
+---
+
+## 💖 Sponsors & Support
+
+Building and maintaining this open-source job application bot requires significant time and effort. If this bot has helped you land interviews or saved you hours of manual clicking, please consider supporting the development!
+
+<p align="center">
+  <a href="https://github.com/sponsors/RayeesYousufGenAi">
+    <img src="https://img.shields.io/badge/Sponsor_Me_On_GitHub-💖-ff69b4?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://paypal.me/rayeesyousuf">
+    <img src="https://img.shields.io/badge/Donate_via_PayPal-💳-00457C?style=for-the-badge&logo=paypal" />
+  </a>
+</p>
 
 ---
 
